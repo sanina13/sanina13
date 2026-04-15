@@ -12,6 +12,12 @@ Estudante de Engenharia Informática (2º ano) · 24 anos · Portugal
 
 ---
 
+Focado em evoluir como programador e ganhar experiência prática com projetos reais.
+Já perdi mais de 80kg — aprendi que com disciplina e consistência, os resultados aparecem.
+Aplico essa mesma mentalidade à programação: todos os dias, um pouco melhor do que ontem.
+
+---
+
 ## Projetos
 
 - [**SkillSecurity**](https://github.com/sanina13/SkillsSecurity) – Web app para validação de skills via ficheiros `skills.md` (Python + React)
