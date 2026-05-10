@@ -32,8 +32,4 @@ Aplico essa mesma mentalidade à programação: todos os dias, um pouco melhor d
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanina13&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
