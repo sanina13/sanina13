@@ -20,7 +20,8 @@ Aplico essa mesma mentalidade à programação: todos os dias, um pouco melhor d
 ## Projetos
 
 - [**SkillSecurity**](https://github.com/sanina13/SkillsSecurity) – Web app para validação de skills via ficheiros `skills.md` (Python + React)
-- [**RehabTrack**](https://github.com/sanina13/RehabTrackCRA) – Plataforma de apoio à recuperação motora, motivada pela minha experiência com Esclerose Múltipla (Supabase + React)
+- [**RehabTrack React**](https://github.com/sanina13/RehabTrackCRA) – Plataforma de apoio à recuperação motora, motivada pela minha experiência com Esclerose Múltipla (Supabase + React)
+- [**RehabTrack Angular**](https://github.com/sanina13/RehabTrackAngular) – Plataforma de apoio à recuperação motora, motivada pela minha experiência com Esclerose Múltipla (Supabase + React)
 
 ---
 
