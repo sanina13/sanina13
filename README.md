@@ -1,6 +1,6 @@
 # Tiago Sanina
 
-Estudante de Engenharia Informática (2º ano) · 24 anos · Portugal
+Estudante de Engenharia Informática (3º ano) · 24 anos · Portugal
 
 <div align="center">
 
