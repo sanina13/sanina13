@@ -1,6 +1,6 @@
 # Tiago Sanina
 
-Estudante de Engenharia Informática (3º ano) · 24 anos · Portugal
+Estudante de Engenharia Informática (3.º ano, UPBeja) · 24 anos · Beja, Portugal
 
 <div align="center">
 
@@ -11,24 +11,32 @@ Estudante de Engenharia Informática (3º ano) · 24 anos · Portugal
 
 ---
 
-Focado em evoluir como programador e ganhar experiência prática com projetos reais.
+## Sobre mim
+
+Programador full-stack em formação, com gosto por construir produtos que resolvem problemas reais. Procuro ganhar experiência prática em projetos reais, do backend à interface.
 
 ---
 
-## Projetos
+## Projetos em curso
 
-- [**SkillSecurity**](https://github.com/sanina13/SkillsSecurity) – Web app para validação de skills via ficheiros `skills.md` (Python + React)
-- [**RehabTrack React**](https://github.com/sanina13/RehabTrackCRA) – Plataforma de apoio à recuperação motora, motivada pela minha experiência com Esclerose Múltipla (Supabase + React)
-- [**RehabTrack Angular**](https://github.com/sanina13/RehabTrackAngular) – Plataforma de apoio à recuperação motora, motivada pela minha experiência com Esclerose Múltipla (Supabase + React)
+- **Plataforma de Apoio à Equipa de Cuidados Paliativos da ULSBA** – Projeto Integrado 2026-2027 (UPBeja), em equipa de quatro. Plataforma web para planeamento de visitas domiciliárias, voltas e viaturas, com mapa e registo de ocorrências. Lidero a equipa e coordeno os requisitos. *React, TypeScript, FastAPI, PostgreSQL/PostGIS, Docker* (só dados fictícios)
+- [**SkillSecurity**](https://github.com/sanina13/SkillsSecurity) – Web app que valida skills em ficheiros `skills.md` e deteta prompt injection. *Python, React*
+
+## Outros projetos
+
+- [**RehabTrack (React)**](https://github.com/sanina13/RehabTrackCRA) – Plataforma de apoio à recuperação motora, motivada pela minha experiência com Esclerose Múltipla. *Supabase, React*
+- [**RehabTrack (Angular)**](https://github.com/sanina13/RehabTrackAngular) – A mesma ideia, desenvolvida em Angular. *Supabase, Angular*
 
 ---
 
 ## Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,js,html,css,linux,git,java" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,js,nodejs,angular,postgres,supabase,docker,git,linux,java,html,css" />
 </div>
 
 ---
 
+## Contacto
 
+Aberto a colaborações e oportunidades. Fala comigo no [LinkedIn](https://www.linkedin.com/in/tiago-sanina) ou por [email](mailto:saninatiago11@gmail.com).
